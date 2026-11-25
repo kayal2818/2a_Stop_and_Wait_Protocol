@@ -50,9 +50,9 @@ for i in range(n):
 s.close()
 ```
 ## OUTPUT
-<img width="1456" height="241" alt="Screenshot 2026-11-03 134115" src="https://github.com/user-attachments/assets/ebf64f84-9bd9-420f-86e5-df86c2ac0da9" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9c08902a-a034-4ae7-802c-2dd318575e55" />
 
-<img width="1478" height="315" alt="Screenshot 2026-11-03 134015" src="https://github.com/user-attachments/assets/d2340bda-7284-4027-8b20-c0c97da1ddc6" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ae036b73-da04-46da-a9ad-72c645a5ac61" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
